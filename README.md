@@ -199,7 +199,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-- **Project Link**: [https://github.com/yourusername/esp32-iot-dashboard](https://github.com/yourusername/esp32-iot-dashboard)
+- **Project Link**: [https://github.com/Nikhilkaswan007/SmartHab-Connect](https://github.com/Nikhilkaswan007/SmartHab-Connect)
 - **Issues**: Use GitHub Issues for bug reports and feature requests
 
 ---
