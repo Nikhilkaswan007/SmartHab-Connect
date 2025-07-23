@@ -142,11 +142,6 @@ esp32-iot-dashboard/
 │   └── components_list.md      # Detailed parts list
 ├── docs/
 │   ├── setup_guide.md         # Detailed setup instructions
-│   ├── troubleshooting.md     # Common issues and solutions
-│   └── api_setup.md          # YouTube API configuration
-├── examples/
-│   ├── sensor_test/           # Individual sensor test codes
-│   └── calibration/           # Sensor calibration utilities
 ├── assets/
 │   ├── demo_video.mp4        # Project demonstration
 │   └── screenshots/          # LCD display examples
